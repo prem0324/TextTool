@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTool/static/css/main.073c9b0a.css",
+    "main.js": "/TextTool/static/js/main.5f30a071.js",
+    "static/js/787.2244efd8.chunk.js": "/TextTool/static/js/787.2244efd8.chunk.js",
+    "index.html": "/TextTool/index.html",
+    "main.073c9b0a.css.map": "/TextTool/static/css/main.073c9b0a.css.map",
+    "main.5f30a071.js.map": "/TextTool/static/js/main.5f30a071.js.map",
+    "787.2244efd8.chunk.js.map": "/TextTool/static/js/787.2244efd8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5f30a071.js"
+  ]
+}
